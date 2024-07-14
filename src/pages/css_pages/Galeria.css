@@ -1,6 +1,6 @@
 .gallery {
   width: 100%;
-  height: 60vh;
+  height: 70vh;
   background-color: hsl(0, 0%, 7%);
   margin: 0;
   display: flex;
@@ -8,7 +8,6 @@
   align-items: center;
   border: 2px 4px solid black;
 }
-
 .tit {
   font-family: "Anton SC", sans-serif;
   text-align: center;

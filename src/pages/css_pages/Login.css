@@ -1,0 +1,33 @@
+body{
+    background-color: #121212;
+}
+.invalid{
+    color: red;
+}
+.mainly{
+    padding: 20px;
+    height: 50vh;
+}
+.lgn{
+    background-color: #121212;
+    color: antiquewhite;
+}
+.bttn-area{
+    width: 30%;
+    margin-top: 10px;
+    position: relative;
+    top: 30px;
+}
+.forms{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-area{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}

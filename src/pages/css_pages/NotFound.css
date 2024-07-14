@@ -1,0 +1,23 @@
+.box1{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tit-not{
+    font-family: "Anton SC", sans-serif;
+    margin-top: 16px;
+}
+.texxxt{
+    width: 100%;
+    background-color: #121212;
+    color: antiquewhite;
+    text-align: center;
+}
+.a-nf{
+    text-decoration: none;
+    color: antiquewhite;
+    text-transform: uppercase;
+}
+.a-nf:hover{
+    letter-spacing: 2px;
+}

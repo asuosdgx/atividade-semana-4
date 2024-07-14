@@ -1,4 +1,4 @@
-import "./Galeria.css";
+import "./css_pages/Galeria.css"
 import Card from "./Card";
 import imagem from "../assets/germs.jpg"
 import imagem1 from "../assets/black.jpg"

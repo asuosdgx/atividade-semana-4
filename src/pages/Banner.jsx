@@ -1,4 +1,4 @@
-import "./Banner.css"
+import "./css_pages/Banner.css"
 
 function Banner(){
     return(
